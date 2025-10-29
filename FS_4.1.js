@@ -7,18 +7,18 @@
     const employees=[
         {
             id:"1",
-            name:"Alice",
-            Age:34
+            name:"Yuvraj",
+            Age:21
         },
         {
             id:"2",
-            name:"inBorder",
+            name:"Singh",
             Age:30
         },
         {
             id:"3",
-            name:"land",
-            Age:34
+            name:"Vani",
+            Age:18
         }
     ];
 
